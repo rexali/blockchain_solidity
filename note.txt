@@ -1,0 +1,3 @@
+command: geth --dev --mine
+command: geth attach ipc:\\.\pipe\geth.ipc
+
